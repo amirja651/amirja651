@@ -22,4 +22,4 @@ C · C++ · Python · C# · STM32 · ESP32 · FreeRTOS · CAN · pytest · Jenki
 - [MAE3Encoder_lean](https://github.com/amirja651/MAE3Encoder_lean) (C++)
 
 ### Contact
-Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~01f6cd75786ac7ed5c).
+Available for freelance work on [Upwork](https://www.upwork.com/freelancers/amirja).
